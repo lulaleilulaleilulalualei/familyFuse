@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "姓氏文化之旅",
+  "usingComponents": {
+    "load-err": "/components/loadErr",
+    "no-more": "/components/noMore"
+  }
+}

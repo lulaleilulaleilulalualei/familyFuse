@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "众筹报名",
+  "usingComponents": {
+    "support-sum": "/pages/crowdfunding/supportSum",
+    "show-poster-box": "/components/sharePoster",
+    "load-err": "/components/loadErr"
+  }
+}

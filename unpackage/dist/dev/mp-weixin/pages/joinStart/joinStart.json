@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "参与发起",
+  "usingComponents": {
+    "load-err": "/components/loadErr"
+  }
+}

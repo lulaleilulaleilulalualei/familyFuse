@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "考察相册",
+  "usingComponents": {
+    "load-err": "/components/loadErr"
+  }
+}

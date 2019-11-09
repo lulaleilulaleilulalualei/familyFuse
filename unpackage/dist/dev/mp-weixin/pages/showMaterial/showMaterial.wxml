@@ -1,0 +1,1 @@
+<view class="showMaterial data-v-07d2836c"><cu-custom vue-id="1" bgColor="white" isBack="{{true}}" class="data-v-07d2836c" bind:__l="__l" vue-slots="{{['content']}}"><view slot="content" class="data-v-07d2836c">活动物料</view></cu-custom><view class="to-show-material data-v-07d2836c"><image src="/static/material_img.jpg" mode class="data-v-07d2836c"></image></view></view>

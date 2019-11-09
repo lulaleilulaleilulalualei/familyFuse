@@ -1,0 +1,7 @@
+
+//公共操作
+export const ACTIVITY_INFO = "ACTIVITY_INFO"
+
+export const TO_JUMP_ORDER_LIST = "TO_JUMP_ORDER_LIST"
+
+export const TO_JUMP_SPOT_INFO = "TO_JUMP_SPOT_INFO"

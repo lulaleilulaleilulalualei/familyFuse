@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/joinStart/joinStart",
+    "pages/spotShow/spotShow",
+    "pages/initName/initName",
+    "pages/apply/apply",
+    "pages/writeOrder/writeOrder",
+    "pages/orderDetail/orderDetail",
+    "pages/crowdfunding/crowdfunding",
+    "pages/cfDetail/cfDetail",
+    "pages/orderList/orderList",
+    "pages/qualificationUnit/qualificationUnit",
+    "pages/insuranceIntro/insuranceIntro",
+    "pages/showMaterial/showMaterial",
+    "pages/placeStart/placeStart",
+    "pages/openAlbum/openAlbum"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "姓氏文化之旅",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap60.json"
+}
